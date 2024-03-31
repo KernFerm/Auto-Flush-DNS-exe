@@ -4,7 +4,7 @@
 
 AutoFlushDNS is a utility tool that allows users to flush the DNS cache on Windows systems with a simple graphical user interface (GUI).
 
-`AutoFlushDNS.exe` is digitally signed and is okay.
+`AutoFlushDNS.exe` Is Digitally Signed And Is Okay.
 
 ## Usage
 
