@@ -10,11 +10,13 @@ To use AutoFlushDNS, follow these steps:
 
 ### Downloading the Executable
 
-1. Navigate to the [Releases](https://github.com/yourusername/AutoFlushDNS/releases) page of this repository.
+1. Click The Green Button Upper Right Hand Corner, Click Download Zip.
 
-2. Find the latest release version and locate the `AutoFlushDNS.exe` file under the assets section.
+2. Place The Zip File on Desktop. Extract Zip File.
 
-3. Click on the `AutoFlushDNS.exe` file to download it to your computer.
+3. Find The `AutoFlushDNS.exe`
+
+4. Click on the `AutoFlushDNS.exe` file to download it to your computer.
 
 ### Running the Executable
 
