@@ -7,7 +7,6 @@ AutoFlushDNS is a utility tool that allows users to flush the DNS cache on Windo
 ## Download The Exe Application 
 - [Auto-Flush-DNS](https://github.com/KernFerm/AutoFlushDNS/releases/tag/DNS)
 
-`AutoFlushDNS.exe` Is Digitally Signed And Is Okay.
 
 ## Run .exe As ADMIN
 `right click` on application then `run as admin`
