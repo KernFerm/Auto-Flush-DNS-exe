@@ -41,5 +41,5 @@ Contributions to AutoFlushDNS are welcome! If you encounter any issues, have sug
 
 ## License
 
-AutoFlushDNS is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+AutoFlushDNS is licensed under the Private License. See the [LICENSE](LICENSE) file for details.
 
